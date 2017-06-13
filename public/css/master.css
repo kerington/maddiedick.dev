@@ -1,0 +1,137 @@
+body {
+	background-color: #373737;
+	font-family: 'Assistant', sans-serif;
+	font-size: 1.8em;
+	color: #F4F4F4 !important;
+}
+
+h1 {
+	font-family: 'Lakki Reddy', cursive;
+	font-size: 5em;
+	color: #C0B283;
+
+}
+
+h2 {
+	font-family: 'Lakki Reddy', cursive;
+	color: #C0B283;
+
+}
+
+h3 {
+	font-family: 'Lakki Reddy', cursive;
+	font-size: 3em;
+	color: #C0B283;
+
+}
+
+h4 {
+	font-family: 'Lakki Reddy', cursive;
+	color: #C0B283;
+
+}
+
+h5 {
+	font-family: 'Lakki Reddy', cursive;
+	color: #C0B283;
+
+}
+
+a {
+	color: #F4F4F4 !important;
+}
+
+img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+
+/*NAV BAR*/
+
+.navbar {
+	border-style: none;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+	background-color: #373737;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+	background-color: #373737;
+	border-style: none;
+	width: 100%;
+}
+
+.container-fluid {
+	padding-right: 0;
+	padding-left: 0;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+/*HP ONE*/
+
+.intro {
+	text-align: center;
+}
+
+.aanda {
+	margin-top: -2.5vw;
+}
+
+
+
+/*HP TWO*/
+
+#hptwo {
+	margin-top: 100px;
+}
+
+.artistartisan {
+	margin-left: 18%;
+	width: 65%;
+	overflow: hidden;
+}
+
+.artist_box {
+	overflow: hidden;
+	width: 40%;
+	height: 405px;
+	margin-right: 20%;
+	float:left;
+	border-top: 15px solid #F4F4F4;
+	border-right: 15px solid #F4F4F4;
+	border-bottom: 80px solid #F4F4F4;
+	border-left: 15px solid #F4F4F4;
+}
+.artisan_box {
+	border: 1px solid #F4F4F4;
+	overflow: hidden;
+	width: 40%;
+	height: 405px;
+	float:left;
+	border-top: 15px solid #F4F4F4;
+	border-right: 15px solid #F4F4F4;
+	border-bottom: 80px solid #F4F4F4;
+	border-left: 15px solid #F4F4F4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*DCD0C0*/ /*C0B283*/ /*F4F4F4*/ /*373737*/
